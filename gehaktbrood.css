@@ -1,0 +1,50 @@
+body{
+	border-style: outset;
+	margin: 0 auto;
+	font-size: 20px;
+	line-height: 26px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a{
+  color: black;
+}
+
+h1{
+	font-size: 36px;
+	line-height: 36px;
+}
+
+p:nth-of-type(2){
+	font-size: 24px;
+	line-height: 32px;
+	background-color: #def6ed;
+	padding: 20px;
+}
+
+h2{
+	font-size: 32px;
+	line-height: 32px;
+}
+
+p:nth-of-type(1), ul{
+	padding-bottom: 40px;
+}
+
+.een{
+	padding-bottom: 10px;
+}
+
+.twee{
+	padding-bottom: 20px;
+}
+
+.drie{
+	display: inline;
+	background-color: yellow;
+}
